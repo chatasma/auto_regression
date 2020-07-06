@@ -1,4 +1,3 @@
 node_modules/
 *.csv
-output.json
 *.xlsx
